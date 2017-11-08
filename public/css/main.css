@@ -1,0 +1,50 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+a.nav-link {
+	color: #fff;
+}
+
+#main {
+  padding: 20px 0;
+}
+
+.panel {
+    margin-top: 20px;
+}
+
+.alert li {
+    list-style-type: none;
+    text-align: center;
+}
+
+footer {
+  padding: 20px 0;
+  background-color: #000;
+}
+
+footer p {
+  margin: 0;
+  color: #fff;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
